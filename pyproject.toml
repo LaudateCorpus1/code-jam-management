@@ -17,7 +17,7 @@ flake8-tidy-imports = "^4.3.0"
 flake8-todo = "^0.7"
 pep8-naming = "^0.11.1"
 uvicorn = "^0.13.4"
-fastapi = "^0.65.1"
+fastapi = "^0.65.2"
 asyncpg = "^0.23.0"
 python-decouple = "^3.4"
 
